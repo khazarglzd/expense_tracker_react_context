@@ -4,6 +4,7 @@ import { Header } from './components/Header'
 import "./App.css"
 import IncomeExpences from './components/IncomeExpences'
 import TransactionList from './components/TransactionList'
+import AddTransaction from './components/AddTransaction'
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
         <Balance />
         <IncomeExpences />
         <TransactionList />
+        <AddTransaction />
       </div>
     </div>
   )
