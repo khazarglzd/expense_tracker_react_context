@@ -1,6 +1,6 @@
 import React from 'react'
 import Balance from './components/Balance'
-import { Header } from './components/Header'
+import Header from './components/Header'
 import "./App.css"
 import IncomeExpences from './components/IncomeExpences'
 import TransactionList from './components/TransactionList'
